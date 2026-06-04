@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0414-third-maximum-number](https://github.com/gilnapradeep/Leetcode/tree/master/0414-third-maximum-number) |
+| [0643-maximum-average-subarray-i](https://github.com/gilnapradeep/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [2540-minimum-common-value](https://github.com/gilnapradeep/Leetcode/tree/master/2540-minimum-common-value) |
 ## Hash Table
 |  |
@@ -50,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/gilnapradeep/Leetcode/tree/master/0206-reverse-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/gilnapradeep/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
