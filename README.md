@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/gilnapradeep/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0414-third-maximum-number](https://github.com/gilnapradeep/Leetcode/tree/master/0414-third-maximum-number) |
 | [0643-maximum-average-subarray-i](https://github.com/gilnapradeep/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [2540-minimum-common-value](https://github.com/gilnapradeep/Leetcode/tree/master/2540-minimum-common-value) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/gilnapradeep/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [2540-minimum-common-value](https://github.com/gilnapradeep/Leetcode/tree/master/2540-minimum-common-value) |
 ## Tree
 |  |
@@ -58,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gilnapradeep/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/gilnapradeep/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/gilnapradeep/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
