@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gilnapradeep/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/gilnapradeep/Leetcode/tree/master/0058-length-of-last-word) |
+| [2833-furthest-point-from-origin](https://github.com/gilnapradeep/Leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Array
 |  |
 | ------- |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/gilnapradeep/Leetcode/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/gilnapradeep/Leetcode/tree/master/0202-happy-number) |
+## Counting
+|  |
+| ------- |
+| [2833-furthest-point-from-origin](https://github.com/gilnapradeep/Leetcode/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
