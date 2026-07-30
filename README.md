@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/gilnapradeep/Leetcode/tree/master/0217-contains-duplicate) |
 | [0414-third-maximum-number](https://github.com/gilnapradeep/Leetcode/tree/master/0414-third-maximum-number) |
 | [0643-maximum-average-subarray-i](https://github.com/gilnapradeep/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1046-last-stone-weight](https://github.com/gilnapradeep/Leetcode/tree/master/1046-last-stone-weight) |
 | [2540-minimum-common-value](https://github.com/gilnapradeep/Leetcode/tree/master/2540-minimum-common-value) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/gilnapradeep/Leetcode/tree/master/2869-minimum-operations-to-collect-elements) |
 ## Hash Table
@@ -113,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/gilnapradeep/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1046-last-stone-weight](https://github.com/gilnapradeep/Leetcode/tree/master/1046-last-stone-weight) |
 <!---LeetCode Topics End-->
