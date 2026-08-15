@@ -8,8 +8,8 @@ class Solution(object):
         trust_score = [0] * (n + 1)
 
         for a, b in trust:
-            trust_score[a] -= 1  # a trusts someone
-            trust_score[b] += 1  # b is trusted
+            trust_score[a] -= 1  
+            trust_score[b] += 1  
 
         for person in range(1, n + 1):
             if trust_score[person] == n - 1:
