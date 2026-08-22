@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gilnapradeep/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/gilnapradeep/Leetcode/tree/master/0058-length-of-last-word) |
+| [0205-isomorphic-strings](https://github.com/gilnapradeep/Leetcode/tree/master/0205-isomorphic-strings) |
 | [2833-furthest-point-from-origin](https://github.com/gilnapradeep/Leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Array
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gilnapradeep/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/gilnapradeep/Leetcode/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/gilnapradeep/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/gilnapradeep/Leetcode/tree/master/0217-contains-duplicate) |
 | [0997-find-the-town-judge](https://github.com/gilnapradeep/Leetcode/tree/master/0997-find-the-town-judge) |
 | [2540-minimum-common-value](https://github.com/gilnapradeep/Leetcode/tree/master/2540-minimum-common-value) |
