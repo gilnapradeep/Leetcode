@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/gilnapradeep/Leetcode/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/gilnapradeep/Leetcode/tree/master/0202-happy-number) |
+| [0371-sum-of-two-integers](https://github.com/gilnapradeep/Leetcode/tree/master/0371-sum-of-two-integers) |
 ## Counting
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/gilnapradeep/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/gilnapradeep/Leetcode/tree/master/2869-minimum-operations-to-collect-elements) |
 ## Stack
 |  |
