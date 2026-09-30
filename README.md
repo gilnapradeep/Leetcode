@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/gilnapradeep/Leetcode/tree/master/0035-search-insert-position) |
 | [0198-house-robber](https://github.com/gilnapradeep/Leetcode/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/gilnapradeep/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/gilnapradeep/Leetcode/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/gilnapradeep/Leetcode/tree/master/0414-third-maximum-number) |
 | [0643-maximum-average-subarray-i](https://github.com/gilnapradeep/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0997-find-the-town-judge](https://github.com/gilnapradeep/Leetcode/tree/master/0997-find-the-town-judge) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/gilnapradeep/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/gilnapradeep/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/gilnapradeep/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/gilnapradeep/Leetcode/tree/master/0229-majority-element-ii) |
 | [0997-find-the-town-judge](https://github.com/gilnapradeep/Leetcode/tree/master/0997-find-the-town-judge) |
 | [2540-minimum-common-value](https://github.com/gilnapradeep/Leetcode/tree/master/2540-minimum-common-value) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/gilnapradeep/Leetcode/tree/master/2869-minimum-operations-to-collect-elements) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/gilnapradeep/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/gilnapradeep/Leetcode/tree/master/0229-majority-element-ii) |
 | [0414-third-maximum-number](https://github.com/gilnapradeep/Leetcode/tree/master/0414-third-maximum-number) |
 ## Linked List
 |  |
@@ -117,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/gilnapradeep/Leetcode/tree/master/0229-majority-element-ii) |
 | [2833-furthest-point-from-origin](https://github.com/gilnapradeep/Leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Union-Find
 |  |
@@ -168,4 +172,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/gilnapradeep/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/gilnapradeep/Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
