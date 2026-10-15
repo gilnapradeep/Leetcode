@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/gilnapradeep/Leetcode/tree/master/0022-generate-parentheses) |
 | [0058-length-of-last-word](https://github.com/gilnapradeep/Leetcode/tree/master/0058-length-of-last-word) |
 | [0205-isomorphic-strings](https://github.com/gilnapradeep/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0424-longest-repeating-character-replacement](https://github.com/gilnapradeep/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [2833-furthest-point-from-origin](https://github.com/gilnapradeep/Leetcode/tree/master/2833-furthest-point-from-origin) |
 ## Array
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/gilnapradeep/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/gilnapradeep/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/gilnapradeep/Leetcode/tree/master/0229-majority-element-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/gilnapradeep/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0997-find-the-town-judge](https://github.com/gilnapradeep/Leetcode/tree/master/0997-find-the-town-judge) |
 | [2540-minimum-common-value](https://github.com/gilnapradeep/Leetcode/tree/master/2540-minimum-common-value) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/gilnapradeep/Leetcode/tree/master/2869-minimum-operations-to-collect-elements) |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gilnapradeep/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/gilnapradeep/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/gilnapradeep/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/gilnapradeep/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Divide and Conquer
