@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gilnapradeep/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0138-copy-list-with-random-pointer](https://github.com/gilnapradeep/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0202-happy-number](https://github.com/gilnapradeep/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/gilnapradeep/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/gilnapradeep/Leetcode/tree/master/0217-contains-duplicate) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0138-copy-list-with-random-pointer](https://github.com/gilnapradeep/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/gilnapradeep/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/gilnapradeep/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Recursion
