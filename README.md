@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/gilnapradeep/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/gilnapradeep/Leetcode/tree/master/0035-search-insert-position) |
+| [0078-subsets](https://github.com/gilnapradeep/Leetcode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/gilnapradeep/Leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/gilnapradeep/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/gilnapradeep/Leetcode/tree/master/0198-house-robber) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/gilnapradeep/Leetcode/tree/master/0078-subsets) |
 | [0371-sum-of-two-integers](https://github.com/gilnapradeep/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/gilnapradeep/Leetcode/tree/master/2869-minimum-operations-to-collect-elements) |
 ## Stack
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/gilnapradeep/Leetcode/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/gilnapradeep/Leetcode/tree/master/0078-subsets) |
 ## Bracket Sequences
 |  |
 | ------- |
