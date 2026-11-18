@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0997-find-the-town-judge](https://github.com/gilnapradeep/Leetcode/tree/master/0997-find-the-town-judge) |
 | [1046-last-stone-weight](https://github.com/gilnapradeep/Leetcode/tree/master/1046-last-stone-weight) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/gilnapradeep/Leetcode/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+| [1472-design-browser-history](https://github.com/gilnapradeep/Leetcode/tree/master/1472-design-browser-history) |
 | [2540-minimum-common-value](https://github.com/gilnapradeep/Leetcode/tree/master/2540-minimum-common-value) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/gilnapradeep/Leetcode/tree/master/2869-minimum-operations-to-collect-elements) |
 ## Hash Table
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/gilnapradeep/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/gilnapradeep/Leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/gilnapradeep/Leetcode/tree/master/0206-reverse-linked-list) |
+| [1472-design-browser-history](https://github.com/gilnapradeep/Leetcode/tree/master/1472-design-browser-history) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/gilnapradeep/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Recursion
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/gilnapradeep/Leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/gilnapradeep/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/gilnapradeep/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [1472-design-browser-history](https://github.com/gilnapradeep/Leetcode/tree/master/1472-design-browser-history) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/gilnapradeep/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [1472-design-browser-history](https://github.com/gilnapradeep/Leetcode/tree/master/1472-design-browser-history) |
 ## Queue
 |  |
 | ------- |
@@ -209,4 +213,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/gilnapradeep/Leetcode/tree/master/0022-generate-parentheses) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/gilnapradeep/Leetcode/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/gilnapradeep/Leetcode/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
